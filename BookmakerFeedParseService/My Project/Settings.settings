@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ProcessName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RunCode</Value>
+    </Setting>
+    <Setting Name="ProcessArguments" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://webappbookmakerfeed20160322092921.azurewebsites.net/spocosy/Receive.aspx</Value>
+    </Setting>
+    <Setting Name="ProcessFullPathFilename" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\#myPrograms\RunCode\program\RunPage.exe</Value>
+    </Setting>
+    <Setting Name="ProcessMaxExecRuntimeSecs" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1800</Value>
+    </Setting>
+    <Setting Name="ProcessKillRuntimeSecs" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1800</Value>
+    </Setting>
+    <Setting Name="ProcessCycleEverySecs" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="RedirectProcessOutput" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ErrorFIleOutput" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ErrorPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\#myPrograms\BookmakerFeedParseService\error_reports\</Value>
+    </Setting>
+    <Setting Name="ProcessLogPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\#myPrograms\BookmakerFeedParseService\logs\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
